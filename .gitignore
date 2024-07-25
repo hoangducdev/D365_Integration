@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Sample.Integration.AzureFunctionApp/.vs/Sample.Integration.AzureFunctionApp
+/Sample.Integration.AzureFunctionApp/Sample.Integration.AzureFunctionApp/bin/Debug/net6.0
+/Sample.Integration.AzureFunctionApp/Sample.Integration.AzureFunctionApp/obj
+/.vs/D365_Integration/v17
+/.vs
